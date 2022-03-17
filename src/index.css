@@ -28,6 +28,10 @@ button:hover {
   color: #fff;
   border-color: #fff;
 }
+button:focus {
+  color: #fff;
+  border-color: #ffff57;
+}
 .content {
   text-align: left;
 }
